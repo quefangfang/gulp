@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+.container .item {
+  flex: 1;
+  margin: 0 20px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
